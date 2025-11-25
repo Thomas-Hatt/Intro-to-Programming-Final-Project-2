@@ -24,7 +24,7 @@ To use the calculator, you need to download the Python script file (e.g., `shipp
 
     ```bash
     git clone https://github.com/Thomas-Hatt/Intro-to-Programming-Final-Project-2.git
-    cd repository-name
+    cd Intro-to-Programming-Final-Project-2
     ```
 
 2.  **Download Directly:**
